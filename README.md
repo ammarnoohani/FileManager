@@ -18,21 +18,21 @@ common-io-2.4.jar library is imported.
 # Applications:
 
  
- File Manager:
+ File Manager can:
  
-  1. can open files and directories.
+  1. Open files and directories.
   
-  2. can  delete files and directories.
+  2. Delete files and directories.
  
-  3. can ceate atNew file.
+  3. Create new file.
  
-  4. can rename file.
+  4. Rename file.
  
-  5. can seprate files based on type.
+  5. Seprate files based on type.
  
-  6. can find duplicate files in directory.
+  6. Find duplicate files in directory.
  
-  7. can delete all duplicate files.
+  7. Delete all duplicate files.
   
   
 All features working is detailed in below.
@@ -43,26 +43,26 @@ All features working is detailed in below.
 # Working:
 
 
-This file manager is very easy and friendly to use. In this file manager  accessing file, deleteing file, creatinf new file , seprating files, finding and deleting duplicate files are workable.
+This file manager is very easy and user friendly. In this file manager  accessing file, deleteing file, creating new file , seprating files, finding and deleting duplicate files are working.
 
 
-The selected current file will be opened with Open button, wlll be renamed with Rename button and will be deleted with Delete buttton.
+The selected current file will be opened with (Open) button, will be renamed with (Rename) button and will be deleted with (Delete) button.
 
 
-The file or direcotory will be created in current directory with New buttton.
+The file or directory will be created in current directory with (New) button.
 
 
-All duplicacte files of current directory will be listed with Find Duplicates button based on creation time, size and extension. It can be deleted individually with Delete button in duplicate files tab.
+All duplicate files of current directory will be listed with (Find Duplicates) button based on creation time, size and extension. It can be deleted individually with (Delete) button in duplicate files tab.
 
 
-All duplicacte files of current directory will be deleted with Delete Duplicates button based on creation time, size and extension.
+All duplicate files of current directory will be deleted with (Delete Duplicates) button based on creation time, size and extension.
 
 
-Files will be seprated based on type of files with Seprate Files button. It will create folders for all different types of files in folder names as seprated files and will copy all files in newly created folders.
+Files will be seprated based on types of files with (Seprate Files) button. It will create folders for all different types of files in folder names as seprated files and will copy all files in newly created folders.
 
  
  
-# Supported OS:
+# Supported Operating Systems:
 
 
   Windows
