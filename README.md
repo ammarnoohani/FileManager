@@ -10,7 +10,7 @@ File System to manage, organise and list files and directories.
 
 Developed in Intellij Idea.
 
-Java JDK 15 
+Java JDK 11
 
 common-io-2.4.jar library is imported.
 
@@ -77,6 +77,8 @@ Files will be seprated based on type of files with Seprate Files button. It will
 
 (for Windows):
 
+Java JDK 11 or above
+
 Java SE Runtime Environment.
   
 Java SE Development Kit
@@ -84,6 +86,8 @@ Java SE Development Kit
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (for Linux):
+
+ java JDK 11 or above
 
  Java JDK or Open JDK
   
