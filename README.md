@@ -226,7 +226,7 @@ After Installing Java SE Runtime Environment:
 # Images
 
  
- ![alt text](https://github.com/ammarnoohani/File-Manager/blob/main/imgs/LinSs.png?raw=true)
+ ![alt text](https://github.com/ammarnoohani/FileManager/blob/main/imgs/LinSs.png?raw=true)
  
  
  
@@ -234,7 +234,7 @@ After Installing Java SE Runtime Environment:
  
  
  
- ![alt text](https://github.com/ammarnoohani/File-Manager/blob/main/imgs/winSs.png?raw=true)
+ ![alt text](https://github.com/ammarnoohani/FileManager/blob/main/imgs/winSs.png?raw=true)
   
   
   
