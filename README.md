@@ -150,7 +150,7 @@ After Installing Java SE Runtime Environment:
    Download the installation file from folder of your supported operating system:
    
    
-   https://github.com/ammarnoohani/File-Manager/tree/main/Installation%20Files
+   https://github.com/ammarnoohani/FileManager/tree/gh-pages/Installation%20Files
    
    
     
